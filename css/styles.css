@@ -159,6 +159,10 @@ color: #fff;
   .title-text {
     text-align: center;
   }
+  
+  .nav-item {
+    text-align: left;
+  }
 
   .title-image {
     position: static;
